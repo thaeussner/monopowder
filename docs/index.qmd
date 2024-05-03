@@ -1,0 +1,33 @@
+---
+title: "MonoPowder"
+subtitle: "Inclusive Ski Touring"
+author:
+  - name: Anna Banzer
+  - name: Isotta Bernardoni
+  - name: Joël Kocher
+  - name: Till Höussner
+    email: thaeussner@ethz.ch
+date: today
+
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+---
+
+# The Problem
+
+Experienced sitski users may like to ski off-piste, but can only do so with lift access. There is currently no solution for them to overcome flat or uphill sections in the backcountry, except for being towed.
+
+We want to create a solution for independent uphill propulsion to enable sitski users to join their friends on ski tours.
+
+# Our Initial Ideas
+
+How would you propel yourself upwards? We worked out three initial ideas for the propulsion system:
+
+## Hand-Cycle Setup
+
+## Rod-Assisted Setup
+
+# Our Solution

@@ -36,7 +36,7 @@ The idea is to attach a hybrid, electrically assisted hand-cycle system, which i
 *Source:* [EMPULSE Attitude Hybrid](https://www.paraplegie.ch/orthotec/en/aids/using-wheelchair/sports-devices/hand-bikes/)](images/handcycle.png){fig-align="left"}
 
 | Pros                                           | Cons                                                |
-|----------------------------------|--------------------------------------|
+|------------------------------------------------|-----------------------------------------------------|
 | Existing systems on the market                 | Lack of balance and need for external stabilization |
 | Ergonomic power delivery and hybrid assistance | Bulky system, complex attachment to the sitski      |
 
@@ -49,7 +49,7 @@ The idea is to attach big, hybrid tracks underneath the sitski, which are driven
 ![Concept render of the rod-assisted tracks. [Sitski model by Hunter King](https://grabcad.com/library/sit-ski-1)](images/rodassist.png){fig-align="left"}
 
 | Pros                                | Cons                                                |
-|------------------------------|------------------------------------------|
+|-------------------------------------|-----------------------------------------------------|
 | Good position underneath the sitski | Lack of balance and need for external stabilization |
 | Less complex system                 | Power delivery not as ergonomic                     |
 
@@ -62,7 +62,7 @@ The idea is to attach smaller, electrically motorized tracks to the ski for prop
 ![Concept render of the motorized tracks. [Sitski model by Hunter King](https://grabcad.com/library/sit-ski-1)](images/motorized.png){fig-align="left"}
 
 | Pros                                            | Cons                                       |
-|--------------------------------------|----------------------------------|
+|-------------------------------------------------|--------------------------------------------|
 | Small, relatively simple and easy to attach     | Position in front not optimal for traction |
 | Hand are free for balance, steering and pushing | Not a hybrid system, but fully motorized.  |
 
@@ -75,7 +75,7 @@ For the small, motorized tracks proposed above, the hands would be free for bala
 ![Concept render of the rod-assisted tracks](images/outrigger.png){fig-align="left"}
 
 | Pros                                             | Cons                                                   |
-|----------------------------------|--------------------------------------|
+|--------------------------------------------------|--------------------------------------------------------|
 | Small, relatively simple and easy to attach      | Electronics in the handle                              |
 | Full control over the motors with just one thumb | Force sensor for assistance would be hard to implement |
 

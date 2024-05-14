@@ -5,9 +5,9 @@ author:
   - name: Anna Banzer
   - name: Isotta Bernardoni
   - name: Joël Kocher
-  - name: Till Höussner
+  - name: Till Häussner
     email: thaeussner@ethz.ch
-date: today
+date: last-modified
 
 format:
   html:
@@ -16,7 +16,7 @@ format:
     css: styles.css
 ---
 
-[***Deutsche Version***](https://thaeussner.github.io/monopowder_en/)
+[***Deutsche Version***](https://thaeussner.github.io/monopowder_de/)
 
 # The Problem
 

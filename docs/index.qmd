@@ -16,6 +16,8 @@ format:
     css: styles.css
 ---
 
+[***Deutsche Version***](https://thaeussner.github.io/monopowder_en/)
+
 # The Problem
 
 Experienced sitski users may like to ski off-piste, but can only do so with lift access. There is currently no solution for them to overcome flat or uphill sections in the backcountry, except for being towed.
